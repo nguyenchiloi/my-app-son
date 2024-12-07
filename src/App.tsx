@@ -10,6 +10,7 @@ const App = () => {
         <h3>cho đỡ buồn nè ♥</h3>
       </div>
       <Header />
+      <div>hình ảnh mang tính chất tượng trưng nhưng có dịp sẽ thành thật ♥</div>
     </>
   );
 }
